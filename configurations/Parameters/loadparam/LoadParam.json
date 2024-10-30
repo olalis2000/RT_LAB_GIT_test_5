@@ -1,0 +1,14 @@
+[
+  {"version":2},
+  {
+    "Opal::Simulation::SerializeableLoadParamList":
+    {
+      "name":"C8EE7800-065C-465E-9ADD-616B73674F05",
+      "loadParamSets":
+      [
+        "/Boost_and_Two_Level_Inverter_IO.slx"
+      ],
+      "parent":"/"
+    }
+  }
+]
